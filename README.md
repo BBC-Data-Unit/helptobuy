@@ -1,6 +1,6 @@
 # Homes 'too expensive' for Help to Buy Isa scheme
 
-![](https://raw.githubusercontent.com/BBC-Data-Unit/helptobuy/master/2bedhouseschart.png)
+![](https://raw.githubusercontent.com/BBC-Data-Unit/helptobuy/master/2bedhousechart.png)
 
 Our investigation found that would-be-homeowners in large parts of England are being priced out of a government scheme to help first-time buyers.
 

@@ -9,6 +9,7 @@ A comments form added to the story attracted over 400 comments and led to a [fol
 * The story, [Homes 'too expensive' for Help to Buy Isa scheme](http://www.bbc.co.uk/news/uk-england-36424548) including interactive search
 * **Newsbeat** reported their own version of the story: [The Help To Buy ISAs that aren't helping people to buy](http://www.bbc.co.uk/newsbeat/article/36575795/the-help-to-buy-isas-that-arent-helping-people-to-buy)
 * [Help to Buy Isa scheme: Your stories](http://www.bbc.co.uk/news/uk-england-36576068)
+* The BBC England Facebook page [published this video](https://www.facebook.com/bbcer/videos/vb.1392506827668140/1709348549317298/?type=2&theater)
 
 ## Get the data
 

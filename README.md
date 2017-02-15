@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/helptobuy/master/2bedhousechart.png)
 
-Our investigation found that would-be-homeowners in large parts of England are being priced out of a government scheme to help first-time buyers. Over a million people viewed the story within its first 24 hours and at lunchtime over 100,000 people were viewing the story at the same time. It also trended on Twitter.
+Our investigation in June 2016 found that [would-be-homeowners in large parts of England are being priced out of a government scheme to help first-time buyers](http://www.bbc.co.uk/news/uk-england-36424548). Over a million people viewed the story within its first 24 hours and at lunchtime over 100,000 people were viewing the story at the same time. It also trended on Twitter.
 
 A comments form added to the story attracted over 400 comments and led to a [follow up piece on readers' stories](http://www.bbc.co.uk/news/uk-england-36576068). Engagement time on this and the original story was above average.
 
@@ -17,3 +17,7 @@ Data was taken from the property website Zoopla at the start of June 2016. The [
 
 * A [Google spreadsheet of the data can be found here](https://docs.google.com/spreadsheets/d/1rBf9a3ZU1ecyCxK_jUhmjt2n8cRIvBqoQ5zwl7xs0Oo/edit#gid=0)
 * A [CSV file is available in this GitHub repository](https://github.com/BBC-Data-Unit/helptobuy/blob/master/Help%20to%20Buy%20Isa%20cap-%20Data%20from%20Zoopla%2C%20as%20of%201st%20June%202016%20-%20Sheet1.csv)
+
+## Related repositories
+
+* A follow up story in February 2017 looked at the take up of the scheme: [*Help to Buy scheme's impact across England revealed*](https://github.com/BBC-Data-Unit/helptobuy-impact)
